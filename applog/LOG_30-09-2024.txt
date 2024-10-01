@@ -1,0 +1,664 @@
+
+30/09/2024 03:47:15 PM
+
+//TRANSACCIONES 20-09-2024 
+--Cant registros: 165710
+
+Transacciones del día 20/09/2024 sincronizadas con éxito
+
+30/09/2024 03:50:26 PM
+
+//TRANSACCIONES 01-09-2024 
+--Cant registros: 181326
+
+Transacciones del día 01/09/2024 sincronizadas con éxito
+
+30/09/2024 03:51:22 PM
+
+//TRANSACCIONES 02-09-2024 
+--Cant registros: 161644
+
+Transacciones del día 02/09/2024 sincronizadas con éxito
+
+30/09/2024 03:51:58 PM
+
+//TRANSACCIONES 03-09-2024 
+--Cant registros: 163005
+
+Transacciones del día 03/09/2024 sincronizadas con éxito
+
+30/09/2024 03:52:25 PM
+
+//TRANSACCIONES 04-09-2024 
+--Cant registros: 160747
+
+Transacciones del día 04/09/2024 sincronizadas con éxito
+
+30/09/2024 03:53:15 PM
+
+//TRANSACCIONES 05-09-2024 
+--Cant registros: 158094
+
+Transacciones del día 05/09/2024 sincronizadas con éxito
+
+30/09/2024 03:53:43 PM
+
+//TRANSACCIONES 06-09-2024 
+--Cant registros: 164269
+
+Transacciones del día 06/09/2024 sincronizadas con éxito
+
+30/09/2024 03:54:11 PM
+
+//TRANSACCIONES 07-09-2024 
+--Cant registros: 219288
+
+Transacciones del día 07/09/2024 sincronizadas con éxito
+
+30/09/2024 03:54:45 PM
+
+//TRANSACCIONES 08-09-2024 
+--Cant registros: 164639
+
+Transacciones del día 08/09/2024 sincronizadas con éxito
+
+30/09/2024 03:55:14 PM
+
+//TRANSACCIONES 09-09-2024 
+--Cant registros: 131923
+
+Transacciones del día 09/09/2024 sincronizadas con éxito
+
+30/09/2024 03:55:55 PM
+
+//TRANSACCIONES 10-09-2024 
+--Cant registros: 131458
+
+Transacciones del día 10/09/2024 sincronizadas con éxito
+
+30/09/2024 03:56:29 PM
+
+//TRANSACCIONES 11-09-2024 
+--Cant registros: 125046
+
+Transacciones del día 11/09/2024 sincronizadas con éxito
+
+30/09/2024 03:57:14 PM
+
+//TRANSACCIONES 12-09-2024 
+--Cant registros: 123295
+
+Transacciones del día 12/09/2024 sincronizadas con éxito
+
+30/09/2024 03:57:35 PM
+
+//TRANSACCIONES 13-09-2024 
+--Cant registros: 135621
+
+Transacciones del día 13/09/2024 sincronizadas con éxito
+
+30/09/2024 03:58:13 PM
+
+//TRANSACCIONES 14-09-2024 
+--Cant registros: 214287
+
+Transacciones del día 14/09/2024 sincronizadas con éxito
+
+30/09/2024 03:58:56 PM
+
+//TRANSACCIONES 15-09-2024 
+--Cant registros: 163977
+
+Transacciones del día 15/09/2024 sincronizadas con éxito
+
+30/09/2024 03:59:41 PM
+
+//TRANSACCIONES 16-09-2024 
+--Cant registros: 118510
+
+Transacciones del día 16/09/2024 sincronizadas con éxito
+
+30/09/2024 04:00:25 PM
+
+//TRANSACCIONES 17-09-2024 
+--Cant registros: 159642
+
+Transacciones del día 17/09/2024 sincronizadas con éxito
+
+30/09/2024 04:00:54 PM
+
+//TRANSACCIONES 18-09-2024 
+--Cant registros: 179091
+
+Transacciones del día 18/09/2024 sincronizadas con éxito
+
+30/09/2024 04:01:32 PM
+
+//TRANSACCIONES 19-09-2024 
+--Cant registros: 162970
+
+Transacciones del día 19/09/2024 sincronizadas con éxito
+
+30/09/2024 04:02:04 PM
+
+//TRANSACCIONES 20-09-2024 
+--Cant registros: 165710
+
+Transacciones del día 20/09/2024 sincronizadas con éxito
+
+30/09/2024 04:02:30 PM
+
+//TRANSACCIONES 22-09-2024 
+--Cant registros: 174679
+
+Transacciones del día 22/09/2024 sincronizadas con éxito
+
+30/09/2024 04:03:05 PM
+
+//TRANSACCIONES 23-09-2024 
+--Cant registros: 135505
+
+Transacciones del día 23/09/2024 sincronizadas con éxito
+
+30/09/2024 04:03:30 PM
+
+//TRANSACCIONES 24-09-2024 
+--Cant registros: 135492
+
+Transacciones del día 24/09/2024 sincronizadas con éxito
+
+30/09/2024 04:04:01 PM
+
+//TRANSACCIONES 25-09-2024 
+--Cant registros: 135530
+
+Transacciones del día 25/09/2024 sincronizadas con éxito
+
+30/09/2024 04:04:29 PM
+
+//TRANSACCIONES 26-09-2024 
+--Cant registros: 146673
+
+Transacciones del día 26/09/2024 sincronizadas con éxito
+
+30/09/2024 04:04:54 PM
+
+//TRANSACCIONES 27-09-2024 
+--Cant registros: 159577
+
+Transacciones del día 27/09/2024 sincronizadas con éxito
+
+30/09/2024 04:05:22 PM
+
+//TRANSACCIONES 28-09-2024 
+--Cant registros: 227566
+
+Transacciones del día 28/09/2024 sincronizadas con éxito
+
+30/09/2024 04:05:58 PM
+
+//TRANSACCIONES 29-09-2024 
+--Cant registros: 173670
+
+Transacciones del día 29/09/2024 sincronizadas con éxito
+
+30/09/2024 04:07:04 PM
+
+//TRANSACCIONES 30-09-2024 
+--Cant registros: 62866
+
+Transacciones del día 30/09/2024 sincronizadas con éxito
+
+30/09/2024 04:07:48 PM
+
+//TRANSACCIONES 01-08-2024 
+--Cant registros: 51252
+
+Transacciones del día 01/08/2024 sincronizadas con éxito
+
+30/09/2024 04:08:03 PM
+
+//TRANSACCIONES 02-08-2024 
+--Cant registros: 66035
+
+Transacciones del día 02/08/2024 sincronizadas con éxito
+
+30/09/2024 04:08:48 PM
+
+//TRANSACCIONES 03-08-2024 
+--Cant registros: 69790
+
+Transacciones del día 03/08/2024 sincronizadas con éxito
+
+30/09/2024 04:09:12 PM
+
+//TRANSACCIONES 04-08-2024 
+--Cant registros: 79518
+
+Transacciones del día 04/08/2024 sincronizadas con éxito
+
+30/09/2024 04:10:00 PM
+
+//TRANSACCIONES 05-08-2024 
+--Cant registros: 72247
+
+Transacciones del día 05/08/2024 sincronizadas con éxito
+
+30/09/2024 04:10:30 PM
+
+//TRANSACCIONES 06-08-2024 
+--Cant registros: 78824
+
+Transacciones del día 06/08/2024 sincronizadas con éxito
+
+30/09/2024 04:10:53 PM
+
+//TRANSACCIONES 07-08-2024 
+--Cant registros: 81221
+
+Transacciones del día 07/08/2024 sincronizadas con éxito
+
+30/09/2024 04:12:09 PM
+
+//TRANSACCIONES 08-08-2024 
+--Cant registros: 84684
+
+Transacciones del día 08/08/2024 sincronizadas con éxito
+
+30/09/2024 04:12:28 PM
+
+//TRANSACCIONES 09-08-2024 
+--Cant registros: 93040
+
+Transacciones del día 09/08/2024 sincronizadas con éxito
+
+30/09/2024 04:13:07 PM
+
+//TRANSACCIONES 10-08-2024 
+--Cant registros: 130597
+
+Transacciones del día 10/08/2024 sincronizadas con éxito
+
+30/09/2024 04:13:39 PM
+
+//TRANSACCIONES 11-08-2024 
+--Cant registros: 106641
+
+Transacciones del día 11/08/2024 sincronizadas con éxito
+
+30/09/2024 04:14:01 PM
+
+//TRANSACCIONES 11-08-2024 
+--Cant registros: 106641
+
+Transacciones del día 11/08/2024 sincronizadas con éxito
+
+30/09/2024 04:14:34 PM
+
+//TRANSACCIONES 12-08-2024 
+--Cant registros: 83790
+
+Transacciones del día 12/08/2024 sincronizadas con éxito
+
+30/09/2024 04:15:04 PM
+
+//TRANSACCIONES 13-08-2024 
+--Cant registros: 84581
+
+Transacciones del día 13/08/2024 sincronizadas con éxito
+
+30/09/2024 04:15:21 PM
+
+//TRANSACCIONES 14-08-2024 
+--Cant registros: 96343
+
+Transacciones del día 14/08/2024 sincronizadas con éxito
+
+30/09/2024 04:15:43 PM
+
+//TRANSACCIONES 15-08-2024 
+--Cant registros: 115774
+
+Transacciones del día 15/08/2024 sincronizadas con éxito
+
+30/09/2024 04:16:00 PM
+
+//TRANSACCIONES 16-08-2024 
+--Cant registros: 169639
+
+Transacciones del día 16/08/2024 sincronizadas con éxito
+
+30/09/2024 04:16:23 PM
+
+//TRANSACCIONES 17-08-2024 
+--Cant registros: 200401
+
+Transacciones del día 17/08/2024 sincronizadas con éxito
+
+30/09/2024 04:16:51 PM
+
+//TRANSACCIONES 18-08-2024 
+--Cant registros: 164961
+
+Transacciones del día 18/08/2024 sincronizadas con éxito
+
+30/09/2024 04:17:16 PM
+
+//TRANSACCIONES 19-08-2024 
+--Cant registros: 151072
+
+Transacciones del día 19/08/2024 sincronizadas con éxito
+
+30/09/2024 04:17:37 PM
+
+//TRANSACCIONES 20-08-2024 
+--Cant registros: 154781
+
+Transacciones del día 20/08/2024 sincronizadas con éxito
+
+30/09/2024 04:18:04 PM
+
+//TRANSACCIONES 21-08-2024 
+--Cant registros: 152187
+
+Transacciones del día 21/08/2024 sincronizadas con éxito
+
+30/09/2024 04:18:28 PM
+
+//TRANSACCIONES 22-08-2024 
+--Cant registros: 160171
+
+Transacciones del día 22/08/2024 sincronizadas con éxito
+
+30/09/2024 04:19:28 PM
+
+//TRANSACCIONES 23-08-2024 
+--Cant registros: 170531
+
+Transacciones del día 23/08/2024 sincronizadas con éxito
+
+30/09/2024 04:19:56 PM
+
+//TRANSACCIONES 24-08-2024 
+--Cant registros: 236367
+
+Transacciones del día 24/08/2024 sincronizadas con éxito
+
+30/09/2024 04:20:32 PM
+
+//TRANSACCIONES 25-08-2024 
+--Cant registros: 174301
+
+Transacciones del día 25/08/2024 sincronizadas con éxito
+
+30/09/2024 04:20:59 PM
+
+//TRANSACCIONES 26-08-2024 
+--Cant registros: 158842
+
+Transacciones del día 26/08/2024 sincronizadas con éxito
+
+30/09/2024 04:21:22 PM
+
+//TRANSACCIONES 27-08-2024 
+--Cant registros: 150099
+
+Transacciones del día 27/08/2024 sincronizadas con éxito
+
+30/09/2024 04:21:47 PM
+
+//TRANSACCIONES 28-08-2024 
+--Cant registros: 143513
+
+Transacciones del día 28/08/2024 sincronizadas con éxito
+
+30/09/2024 04:22:12 PM
+
+//TRANSACCIONES 29-08-2024 
+--Cant registros: 150411
+
+Transacciones del día 29/08/2024 sincronizadas con éxito
+
+30/09/2024 04:22:35 PM
+
+//TRANSACCIONES 30-08-2024 
+--Cant registros: 141036
+
+Transacciones del día 30/08/2024 sincronizadas con éxito
+
+30/09/2024 04:22:56 PM
+
+//TRANSACCIONES 31-08-2024 
+--Cant registros: 257499
+
+Transacciones del día 31/08/2024 sincronizadas con éxito
+
+30/09/2024 04:23:34 PM
+
+//TRANSACCIONES 01-07-2024 
+--Cant registros: 79873
+
+Transacciones del día 01/07/2024 sincronizadas con éxito
+
+30/09/2024 04:25:25 PM
+
+//TRANSACCIONES 02-07-2024 
+--Cant registros: 82052
+
+Transacciones del día 02/07/2024 sincronizadas con éxito
+
+30/09/2024 04:26:19 PM
+
+//TRANSACCIONES 03-07-2024 
+--Cant registros: 86350
+
+Transacciones del día 03/07/2024 sincronizadas con éxito
+
+30/09/2024 04:26:39 PM
+
+//TRANSACCIONES 04-07-2024 
+--Cant registros: 67906
+
+Transacciones del día 04/07/2024 sincronizadas con éxito
+
+30/09/2024 04:26:57 PM
+
+//TRANSACCIONES 05-07-2024 
+--Cant registros: 83475
+
+Transacciones del día 05/07/2024 sincronizadas con éxito
+
+30/09/2024 04:27:15 PM
+
+//TRANSACCIONES 06-07-2024 
+--Cant registros: 101130
+
+Transacciones del día 06/07/2024 sincronizadas con éxito
+
+30/09/2024 04:27:36 PM
+
+//TRANSACCIONES 07-07-2024 
+--Cant registros: 82227
+
+Transacciones del día 07/07/2024 sincronizadas con éxito
+
+30/09/2024 04:27:54 PM
+
+//TRANSACCIONES 08-07-2024 
+--Cant registros: 69161
+
+Transacciones del día 08/07/2024 sincronizadas con éxito
+
+30/09/2024 04:28:18 PM
+
+//TRANSACCIONES 09-07-2024 
+--Cant registros: 72226
+
+Transacciones del día 09/07/2024 sincronizadas con éxito
+
+30/09/2024 04:28:35 PM
+
+//TRANSACCIONES 10-07-2024 
+--Cant registros: 81077
+
+Transacciones del día 10/07/2024 sincronizadas con éxito
+
+30/09/2024 04:30:23 PM
+
+//TRANSACCIONES 11-07-2024 
+--Cant registros: 124080
+
+Transacciones del día 11/07/2024 sincronizadas con éxito
+
+30/09/2024 04:30:42 PM
+
+//TRANSACCIONES 12-07-2024 
+--Cant registros: 125611
+
+Transacciones del día 12/07/2024 sincronizadas con éxito
+
+30/09/2024 04:31:21 PM
+
+//TRANSACCIONES 13-07-2024 
+--Cant registros: 175108
+
+Transacciones del día 13/07/2024 sincronizadas con éxito
+
+30/09/2024 04:31:56 PM
+
+//TRANSACCIONES 14-07-2024 
+--Cant registros: 122470
+
+Transacciones del día 14/07/2024 sincronizadas con éxito
+
+30/09/2024 04:32:39 PM
+
+//TRANSACCIONES 15-07-2024 
+--Cant registros: 104891
+
+Transacciones del día 15/07/2024 sincronizadas con éxito
+
+30/09/2024 04:33:13 PM
+
+//TRANSACCIONES 16-07-2024 
+--Cant registros: 138448
+
+Transacciones del día 16/07/2024 sincronizadas con éxito
+
+30/09/2024 04:33:47 PM
+
+//TRANSACCIONES 17-07-2024 
+--Cant registros: 137640
+
+Transacciones del día 17/07/2024 sincronizadas con éxito
+
+30/09/2024 04:34:37 PM
+
+//TRANSACCIONES 18-07-2024 
+--Cant registros: 136677
+
+Transacciones del día 18/07/2024 sincronizadas con éxito
+
+30/09/2024 04:35:07 PM
+
+//TRANSACCIONES 19-07-2024 
+--Cant registros: 141492
+
+Transacciones del día 19/07/2024 sincronizadas con éxito
+
+30/09/2024 04:36:25 PM
+
+//TRANSACCIONES 19-07-2024 
+--Cant registros: 141492
+
+Transacciones del día 19/07/2024 sincronizadas con éxito
+
+30/09/2024 04:36:49 PM
+
+//TRANSACCIONES 20-07-2024 
+--Cant registros: 207520
+
+Transacciones del día 20/07/2024 sincronizadas con éxito
+
+30/09/2024 04:37:54 PM
+
+//TRANSACCIONES 21-07-2024 
+--Cant registros: 147838
+
+Transacciones del día 21/07/2024 sincronizadas con éxito
+
+30/09/2024 04:38:43 PM
+
+//TRANSACCIONES 22-07-2024 
+--Cant registros: 59410
+
+Transacciones del día 22/07/2024 sincronizadas con éxito
+
+30/09/2024 04:38:59 PM
+
+//TRANSACCIONES 23-07-2024 
+--Cant registros: 58877
+
+Transacciones del día 23/07/2024 sincronizadas con éxito
+
+30/09/2024 04:39:33 PM
+
+//TRANSACCIONES 24-07-2024 
+--Cant registros: 68054
+
+Transacciones del día 24/07/2024 sincronizadas con éxito
+
+30/09/2024 04:40:05 PM
+
+//TRANSACCIONES 25-07-2024 
+--Cant registros: 65703
+
+Transacciones del día 25/07/2024 sincronizadas con éxito
+
+30/09/2024 04:40:24 PM
+
+//TRANSACCIONES 26-07-2024 
+--Cant registros: 84111
+
+Transacciones del día 26/07/2024 sincronizadas con éxito
+
+30/09/2024 04:40:42 PM
+
+//TRANSACCIONES 27-07-2024 
+--Cant registros: 100967
+
+Transacciones del día 27/07/2024 sincronizadas con éxito
+30/09/2024 04:41:02 PM
+No hay información a sincronizar
+
+30/09/2024 04:41:31 PM
+No hay información a sincronizar
+
+
+30/09/2024 04:41:53 PM
+
+//TRANSACCIONES 29-07-2024 
+--Cant registros: 11303
+
+Transacciones del día 29/07/2024 sincronizadas con éxito
+
+30/09/2024 04:42:15 PM
+
+//TRANSACCIONES 30-07-2024 
+--Cant registros: 9627
+
+Transacciones del día 30/07/2024 sincronizadas con éxito
+
+30/09/2024 04:42:37 PM
+
+//TRANSACCIONES 31-07-2024 
+--Cant registros: 32157
+
+Transacciones del día 31/07/2024 sincronizadas con éxito
+
+30/09/2024 04:46:54 PM
+
+//TRANSACCIONES 30-09-2024 
+--Cant registros: 71017
+
+Transacciones del día 30/09/2024 sincronizadas con éxito
